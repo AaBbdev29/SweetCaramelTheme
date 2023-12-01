@@ -1,0 +1,32 @@
+{
+  "name": "SweetCaramelTheme",
+  "publisher": "moondevaa",
+  "displayName": "Sweet Caramel Theme",
+  "description": "A Sweet Caramel  Theme with this color pallete (Green , Orange, Pink, Purple, Yellow,Blue,...)",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaBbdev29/SweetCaramelTheme"
+  },
+  "icon": "icon.jpg", 
+  "theme": "dark",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sweet Caramel Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sweet-caramel-theme-color-theme.json"
+      }
+    ]
+  }
+  ,"scripts": {
+    "deploy": "vsce publish --yarn"
+  }
+}
