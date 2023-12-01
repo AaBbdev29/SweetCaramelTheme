@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sweet Caramel Theme Theme
+# Sweet Caramel Theme
 
 A Sweet Caramel  Theme with this color pallete (Green , Orange, Pink, Purple, Yellow,Blue,...)
 </div>
